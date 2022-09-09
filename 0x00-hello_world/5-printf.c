@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main-This is the main entry point
+ *main-This is the main entry point
  *
- * Return:Always 0 if no errors
+ *Return:Always 0 if no errors
  */
 int main(void)
 {
