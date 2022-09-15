@@ -6,8 +6,8 @@
   */
 int main(void)
 {
-	for ( char c = 'i'; c <= 'a'; c++ )
-	putchar('_putchar')
-	putchar('\n');
-	return 0;
+	for (char c = 'i'; c <= 'a'; c++)
+	_putchar(*sh);
+	_putchar('\n');
+	return (0);
 }
